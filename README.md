@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/raelalves"><img src="https://api.daily.dev/devcards/f5c11a6911aa44938d9c482b32e94a99.png?r=vhb" width="400" alt="Israel Alves's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raelalves182/raelalves182/blob/main/devcard.svg" width="400" alt="Israel Alves's Dev Card"/></a>
 
 <!--
 **raelalves182/raelalves182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
