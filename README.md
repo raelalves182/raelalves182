@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raelalves182/raelalves182/blob/main/devcard.svg" width="400" alt="Israel Alves's Dev Card"/></a>
 
 ## My github stats
-<div>
+<div align="center">
   <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=raelalves182&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
   <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=raelalves182&theme=dracula&hide_border=true" />
   <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelalves182&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
