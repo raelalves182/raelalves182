@@ -2,7 +2,6 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raelalves182/raelalves182/blob/main/devcard.svg" width="400" alt="Israel Alves's Dev Card"/></a>
 
- ##
 
 ## Skills and Technologies
 <div style="display: inline_block"><br>
