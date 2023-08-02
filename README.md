@@ -2,6 +2,9 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raelalves182/raelalves182/blob/main/devcard.svg" width="400" alt="Israel Alves's Dev Card"/></a>
 
+ ##
+
+## Skills and Technologies
 <div style="display: inline_block"><br>
     <img align="center" alt="Rael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -11,7 +14,8 @@
 </div>
   
   ##
- 
+
+## Social Media 
 <div> 
     <a href="https://instagram.com/_israelalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:raelsullivan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
