@@ -2,18 +2,6 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raelalves182/raelalves182/blob/main/devcard.svg" width="400" alt="Israel Alves's Dev Card"/></a>
 
-
-## Skills and Technologies
-<div style="display: inline_block"><br>
-    <img align="center" alt="Rael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rael-CSS" height="30" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</div>
-  
-  ##
-
 ## Social Media 
 <div> 
     <a href="https://instagram.com/_israelalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
