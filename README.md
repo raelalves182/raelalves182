@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raelalves182/raelalves182/blob/main/devcard.svg" width="400" alt="Israel Alves's Dev Card"/></a>
+<a href="https://app.daily.dev/raelalves"><img src="https://api.daily.dev/devcards/v2/YiwivEJdDkY3MVCkFdnrr.png?r=p1w" width="356" alt="Israel Alves's Dev Card"/></a>
 
 ## Social Media 
 <div> 
