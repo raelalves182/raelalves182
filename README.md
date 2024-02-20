@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/raelalves"><img src="./devcard.png" width="356" alt="Israel Alves's Dev Card"/></a>
+<a href="https://app.daily.dev/raelalves"><img src="./devcard.svg" width="356" alt="Israel Alves's Dev Card"/></a>
 
 ## Social Media 
 <div> 
