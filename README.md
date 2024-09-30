@@ -7,28 +7,16 @@
     <a href="https://instagram.com/_israelalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:raelsullivan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/israel-alves-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/IsraelAlves182" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
 </div>
 
   ##
 
 ## My github stats
 <div align="center">
-  <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=raelalves182&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=raelalves182&theme=dracula&hide_border=true" />
+  <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=raelalves182&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
+  <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=raelalves182&theme=gotham&hide_border=true" />
+  <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelalves182&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
 </div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=raelalves182&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=raelalves182&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=raelalves182&show_icons=true" />
-</picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelalves182&hide_progress=true" />
 <!--
 **raelalves182/raelalves182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
