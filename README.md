@@ -28,6 +28,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=raelalves182&show_icons=true" />
 </picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelalves182&hide_progress=true" />
 <!--
 **raelalves182/raelalves182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
