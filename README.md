@@ -17,6 +17,17 @@
   <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=raelalves182&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
   <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=raelalves182&theme=dracula&hide_border=true" />
 </div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raelalves182&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raelalves182&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=raelalves182&show_icons=true" />
+</picture>
 <!--
 **raelalves182/raelalves182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
