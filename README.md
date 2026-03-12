@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/raelalves"><img src="https://api.daily.dev/devcards/v2/YiwivEJdDkY3MVCkFdnrr.png?type=wide&r=oo6" width="652" alt="Israel Alves's Dev Card"/></a>
+<a href="https://app.daily.dev/raelalves"><img src="https://api.daily.dev/devcards/v2/YiwivEJdDkY3MVCkFdnrr.png?type=default&r=pzy" width="356" alt="Israel Alves's Dev Card"/></a>
 
 ## Find me 
 <div> 
