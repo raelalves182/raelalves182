@@ -10,7 +10,8 @@
     <a href="https://x.com/IsraelAlves182" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 </div>
 
-  ##
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Github stats
 <div align="center">
