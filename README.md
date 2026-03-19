@@ -1,8 +1,11 @@
-### Hi there 👋
-
-<a href="https://app.daily.dev/raelalves"><img src="https://api.daily.dev/devcards/v2/YiwivEJdDkY3MVCkFdnrr.png?type=wide&r=pzy" width="652" alt="Israel Alves's Dev Card"/></a>
-
-## Find me 
+<h3 align="center">Hi there 👋</h3>
+##
+<p align="center">
+  <a href="https://app.daily.dev/raelalves"><img src="https://api.daily.dev/devcards/v2/YiwivEJdDkY3MVCkFdnrr.png?type=wide&r=pzy" width="652" alt="Israel Alves's Dev Card"/></a>
+</p>
+##
+<h3 align="center">👩‍💻 Find me </h3>
+##
 <p align="center">
   <a href="https://instagram.com/_israelalves" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -17,11 +20,13 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
+##
 <h3 align="center">🛠 Language and tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,alpinejs,php,tailwind)](https://skillicons.dev)
-
-<h3 align="center">🔥   My Stats :</h3>
+##
+https://skillicons.dev/icons?i=js,html,css,alpinejs,php,tailwind
+##
+<h3 align="center">🔥 My Stats :</h3>
+##
 <div align="center">
   <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=raelalves182&theme=gotham&hide_border=true" />
   <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelalves182&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
