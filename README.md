@@ -18,17 +18,15 @@
   </a>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,alpinejs,php,tailwind,)](https://skillicons.dev)
+<h3 align="center">🛠 Language and tools</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,alpinejs,php,tailwind)](https://skillicons.dev)
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 <div align="center">
-  <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=raelalves182&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
   <img  height="165em" width: "100em" src="https://github-readme-streak-stats.herokuapp.com/?user=raelalves182&theme=gotham&hide_border=true" />
   <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelalves182&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raelalves182&theme=dark)](https://git.io/streak-stats)
 <!--
 **raelalves182/raelalves182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
